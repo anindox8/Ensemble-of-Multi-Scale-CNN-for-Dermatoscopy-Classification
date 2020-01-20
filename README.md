@@ -17,6 +17,11 @@
 
 ![Data Augmentation](reports/images/data_augmentation.png)*Figure 1.  All 5 different types of data augmentation [vertical (b)/horizontal (c) flips, brightness shift (d), saturation (e)/contrast (f) boost) used at train-time to broaden the data representation beyond limited pre-existing samples, and test-time to ensure a full prediction from the classifier that is unaffected by the orientation or lighting conditions of the scan. Predictions from all 6 variations (including the original) are averaged to obtain the final prediction per sample.* 
    
+     
+## Multi-Scale Input  
+
+![Multi-Scale Input](reports/images/multi-scale_io.png)*Figure 2.  Original RGB image (left), center cropped 448 x 448 x 3 image used to train 3 CNN member models and the further center cropped 224 x 224 x 3 image used to train 2 more CNN member models. Each model learns to classify at a different scale, with the hypothesis that the collective ensemble benefits from a multi-scale input.* 
+
     
 ## Feature Maps  
 
