@@ -15,7 +15,7 @@
   
 ## Train/Test-Time Data Augmentation  
 
-![Data Augmentation](reports/images/data_augmentation.png)*Figure 1.  All 5 different types of data augmentation [vertical (b)/horizontal (c) flips, brightness shift (d), saturation (e)/contrast (f) boost) used at train-time to broaden the data representation beyond limited pre-existing samples, and test-time to ensure a full prediction from the classifier that is unaffected by the orientation or lighting conditions of the scan. Predictions from all 6 variations (including the original) are averaged to obtain the final prediction per sample.* 
+![Data Augmentation](reports/images/data_augmentation.png)*Figure 1.  All 5 different types of data augmentation [vertical (b)/horizontal (c) flips, brightness shift (d), saturation (e)/contrast (f) boost) used at train-time to broaden the data representation beyond limited pre-existing samples, and test-time to ensure a full prediction from the classifier that is unaffected by the orientation or lighting conditions of the scan. Predictions from all 6 variations [including the original (a)] are averaged to obtain the final prediction per sample.* 
    
      
 ## Multi-Scale Input  
