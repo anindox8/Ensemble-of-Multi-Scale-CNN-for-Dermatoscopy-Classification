@@ -8,11 +8,7 @@
 **Data**: *Class A*: Nevus; *Class B:* Other (Melanoma, Dermatofibroma, Pigmented Bowen's, Basal Cell Carcinoma, Vascular, Pigmented Benign Keratoses) [4800/1200/1000 : Train/Val/Test Ratio]
  
 **Directories**  
-  ● Data I/O Functions: `scripts/dataio.py`  
-  ● Preprocessing Functions: `scripts/preprocess.py`  
-  ● Unsupervised Segmentation Functions: `scripts/segment.py`  
-  ● Feature Computation Functions: `scripts/colorfeatures.py`               
-  ● Final Feature Extraction Function: `scripts/feature_extraction.py`               
-  ● Classifier Support Functions: `scripts/classify.py`  
-  ● Inference Pipeline Notebook: `scripts/predict.ipynb`  
-  ● Training-Validation Pipeline Notebook: `scripts/train-val.ipynb` 
+  ● Preprocessing Pipeline for Color Space/Constancy: `scripts/color-io.ipynb`  
+  ● Individual Model Training-Validation Pipeline: `scripts/train-val.ipynb`  
+  ● Ensemble Validation Pipeline: `scripts/ensemble-val.ipynb`  
+  ● Ensemble Inference Pipeline: `scripts/ensemble-test.ipynb`               
