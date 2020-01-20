@@ -1,4 +1,4 @@
-# Ensemble of Convolutional Neural Networks for Skin Lesion Classification
+# Ensemble of Convolutional Neural Networks for Disease Classification of Skin Lesions
 **Problem Statement**: Fully supervised binary classification of skin lesions from dermatoscopic images. 
 
 **Note**: The following approach won 1st place at the **2019 Computer-Aided Diagnosis: Deep Learning in Dermascopy Challenge** at [Universitat de Girona](https://www.udg.edu), during the 2018-20 Joint Master of Science in [Medical Imaging and Applications (MaIA)](https://maiamaster.udg.edu) program.  
