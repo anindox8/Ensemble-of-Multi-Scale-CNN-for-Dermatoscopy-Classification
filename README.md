@@ -24,11 +24,13 @@
  
 ![Feature Maps](reports/images/imgnetplus_efn.png) 
   
-    
+
+## Experimental Results 
+![Results](reports/images/results.png) 
+
+
 ## Gradient Class Activation Maps 
 
 ![GradCAM](reports/images/gradcam.png) 
 
 
-## Experimental Results 
-![Results](reports/images/results.png) 
