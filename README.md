@@ -12,3 +12,23 @@
   ● Individual Model Training-Validation Pipeline: `scripts/train-val.ipynb`  
   ● Ensemble Validation Pipeline: `scripts/ensemble-val.ipynb`  
   ● Ensemble Inference Pipeline: `scripts/ensemble-test.ipynb`               
+  
+## Train/Test-Time Data Augmentation  
+
+![Data Augmentation](reports/images/data_augmentation.png) 
+   
+    
+## Feature Maps  
+
+![Feature Maps](reports/images/imgnet_efn.png) 
+ 
+![Feature Maps](reports/images/imgnetplus_efn.png) 
+  
+    
+## Gradient Class Activation Maps 
+
+![GradCAM](reports/images/gradcam.png) 
+
+
+## Experimental Results 
+![Results](reports/images/results.png) 
