@@ -31,7 +31,7 @@
   
 
 ## Experimental Results 
-![Results](reports/images/results.png)*Figure 5.  Validation performance for the collective ensemble and each member model.* 
+![Results](reports/images/results.png)*Figure 5.  Validation performance for the collective ensemble and each member model. Sensitivity and specificity scores are calculated at the default threshold of 0.50.* 
 
 
 ## Gradient Class Activation Maps 
